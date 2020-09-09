@@ -1,8 +1,11 @@
 {
-  "name": "mehdi-card",
-  "version": "1.0.0",
+  "name": "mehdoche1988-card",
+  "version": "1.0.12",
   "description": "",
   "main": "index.js",
+  "bin": {
+    "mehdoche1988": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
